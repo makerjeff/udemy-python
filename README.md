@@ -9,3 +9,11 @@ Following along with the tutorials and practice here.
     - array.flat = lets you iterate through 1 by 1 in 'for loops'.
     - array.hstack((tuple)) = combine two arrays via a tuple.
     
+    
+- OpenCV:
+    - cv2.imread() opens a file to a numpy array already.
+    - print img.shape will give array dimensions.
+    - 'glob' module:
+        - import glob
+        - glob.glob('*.jpg') will find all the types of files in a folder and put them in a list (array)
+    
