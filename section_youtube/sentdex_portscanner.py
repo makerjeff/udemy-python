@@ -1,7 +1,7 @@
 import socket
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)    #TCP
-server = '192.168.1.135'
+server = '10.90.42.85'
 
 def pscan(port):
     try:

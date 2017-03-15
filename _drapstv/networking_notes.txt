@@ -1,0 +1,15 @@
+# from this DrapsTV tutorial: https://www.youtube.com/watch?v=XiVVYfgDolU
+
+# Basic Networking Workflow:
+
+#SERVER
+# - create a socket
+# - bind host + port
+# - listen()
+# - accept()
+
+#CLIENT
+# - connect to a hostname/port
+# - recv(buffer data)
+# - send(byte data)
+# - close() connection and frees port.
