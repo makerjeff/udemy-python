@@ -17,3 +17,6 @@ Following along with the tutorials and practice here.
         - import glob
         - glob.glob('*.jpg') will find all the types of files in a folder and put them in a list (array)
     
+
+## Tutorials
+- [Python Socket Programming Tutorial](http://www.binarytides.com/python-socket-programming-tutorial/)
