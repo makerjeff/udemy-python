@@ -2,12 +2,19 @@
 Following along with the tutorials and practice here.
 
 ## Notes
+- Section 03:
+    - string.ascii_letters
+    - string.ascii_lowercase
+    - random.choice('abcdefg') will return one of the random characters.
+
 - Numpy (as np):
     - n.arange(number): Creates a pre-filled array.
     - n.reshape(numberA, numberB, (numberC)): Reshape the current array into a multimensional array.
-    - array.T = transpose (not sure how this works yet, but it reformats np arrays...) when using 'for loops'.
+    - array.T = transpose swaps your rows and columns.
     - array.flat = lets you iterate through 1 by 1 in 'for loops'.
-    - array.hstack((tuple)) = combine two arrays via a tuple.
+    - array.hstack((tuple)) = combine two arrays horizontally via a tuple.
+    - array.vstack((tuple)) = combine two arrays vertically via a tuple.
+    - NOTE: array splicing using img[0:2, 2:4] is rows,columns NOT x,y
     
     
 - OpenCV:
