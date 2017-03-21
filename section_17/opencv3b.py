@@ -2,7 +2,7 @@
 import cv2
 import time
 
-video = cv2.VideoCapture(1)     # [#] for webcam number, or a pass in a file name to play a video
+video = cv2.VideoCapture(0)     # [#] for webcam number, or a pass in a file name to play a video
 current_frame = 1
 
 
