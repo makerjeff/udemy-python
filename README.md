@@ -2,6 +2,8 @@
 Following along with the tutorials and practice here.
 
 ## Notes
+- Global Python:
+    - Use 'continue' to go back to the top of the loop (instead of 'break', which breaks out of the loop)
 - Section 03:
     - string.ascii_letters
     - string.ascii_lowercase
