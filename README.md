@@ -8,6 +8,17 @@ Following along with the tutorials and practice here.
     - string.ascii_letters
     - string.ascii_lowercase
     - random.choice('abcdefg') will return one of the random characters.
+    
+- Section 05:
+    - file.read() to stream in the data.
+    - file.tell() to see where you're at.
+    - file.seek(0) to reset the pointer.
+    - file.readlines() returns an array.
+    - content = [i.strip('\n') for i in content] to strip new line from readline();
+    
+- Section 06:
+    - file.write(), then file.close()
+
 
 - Numpy (as np):
     - n.arange(number): Creates a pre-filled array.
