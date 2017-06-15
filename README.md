@@ -9,6 +9,13 @@ Following along with the tutorials and practice here.
     - string.ascii_lowercase
     - random.choice('abcdefg') will return one of the random characters.
     
+- Section 04:
+    - for item in gmail:
+        - if 'gmail' in item:
+            - print item
+     
+    - string formatting, 2 and 1 decimal places: print '{0:.2f}, {1:.1f}'.format(<value1>, <value2>)
+    
 - Section 05:
     - file.read() to stream in the data.
     - file.tell() to see where you're at.
