@@ -16,15 +16,22 @@ Following along with the tutorials and practice here.
      
     - string formatting, 2 and 1 decimal places: print '{0:.2f}, {1:.1f}'.format(<value1>, <value2>)
     
-- Section 05:
+    - for iterating through multiple lists, use:
+        - for i, j in zip( \<list1\>, \<list2\>):
+            - print i, j
+    
+- Section 05a, reading files:
     - file.read() to stream in the data.
     - file.tell() to see where you're at.
     - file.seek(0) to reset the pointer.
     - file.readlines() returns an array.
-    - content = [i.strip('\n') for i in content] to strip new line from readline();
+    - content = [i.rstrip('\n') for i in content] to strip new line from readline();
+    - file.close() is required to release the file.
     
-- Section 06:
+- Section 05b, writing files:
     - file.write(), then file.close()
+        - have to add your own ' \n ' character.
+    - pushing items to list, use 'append(obj)'
 
 
 - Numpy (as np):
@@ -47,3 +54,4 @@ Following along with the tutorials and practice here.
 
 ## Tutorials
 - [Python Socket Programming Tutorial](http://www.binarytides.com/python-socket-programming-tutorial/)
+- [Effbot.org: Python List reference](http://effbot.org/zone/python-list.htm)
