@@ -55,3 +55,4 @@ Following along with the tutorials and practice here.
 ## Tutorials
 - [Python Socket Programming Tutorial](http://www.binarytides.com/python-socket-programming-tutorial/)
 - [Effbot.org: Python List reference](http://effbot.org/zone/python-list.htm)
+- [Python Spot: Random Numbers](https://pythonspot.com/en/random-numbers/)
