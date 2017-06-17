@@ -38,6 +38,9 @@ Following along with the tutorials and practice here.
         - " print \<module\>.\_\_doc\_\_ " to get module's docstring
         - docstring in module is anything inside the """ header """ area.
         - works for methods and classes as well.
+    - datetime module:
+        - [strftime.org](http://strftime.org/)
+        - (see dt-play.py comments for more information.)
 
 
 - Numpy (as np):
