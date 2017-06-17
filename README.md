@@ -32,6 +32,12 @@ Following along with the tutorials and practice here.
     - file.write(), then file.close()
         - have to add your own ' \n ' character.
     - pushing items to list, use 'append(obj)'
+    
+- Section 06:
+    - docstrings: 
+        - " print \<module\>.\_\_doc\_\_ " to get module's docstring
+        - docstring in module is anything inside the """ header """ area.
+        - works for methods and classes as well.
 
 
 - Numpy (as np):
