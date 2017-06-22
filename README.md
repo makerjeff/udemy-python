@@ -41,6 +41,14 @@ Following along with the tutorials and practice here.
     - datetime module:
         - [strftime.org](http://strftime.org/)
         - (see dt-play.py comments for more information.)
+                
+- Section 07:
+    - string method: string.ascii_letters = string of lower and uppercase ascii letters.
+    - use 'dir(\<module\>)' to find out methods associated with the module.
+    - random.choice(\<string\>) to pick from a string
+    
+- Section 12:
+    - 
 
 
 - Numpy (as np):
